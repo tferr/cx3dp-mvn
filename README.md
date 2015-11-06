@@ -8,7 +8,7 @@ For more information refer to the official [Cx3D website](https://www.ini.uzh.ch
 
 
 ### Version
-Cx3Dp revision 1035 (2015.05).
+Cx3Dp revision 1035 (2015.05). Svn revision available [here](./svn/).
 
 ### Cx3D and Cx3Dp compatibility
 API changes between cx3d and cx3dp may require heavy refactoring of existing models. However most changes should be straightforward to implement.
